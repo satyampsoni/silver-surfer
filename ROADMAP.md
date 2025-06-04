@@ -18,7 +18,6 @@ Here's are couple of feature and updates that we are planning to work on.
 - Support for in-cluster config.
 - Support for Helm Chart.
 - Built capability to run silver-surfer as a server.
-- Upgrades on the basis of Migration Policies.
 
 ## Feedback channels
 
